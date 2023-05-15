@@ -32,7 +32,6 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  <hr>
  
 
- ![Profile picture]("https://github.com/iDereje/iDereje/blob/main/assets/profile.png")
 
  
  ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical)
