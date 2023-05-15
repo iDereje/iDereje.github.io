@@ -1,21 +1,20 @@
  👋 Hi there, I'm David! 👋
 <hr>
-I'm a Junior QA Engineer based in Israel<br> <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
-with a strong foundation in software testing and ISTQB certified. <br><br>
+I'm a Junior QA Engineer based in Israel <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
+with a strong foundation in software testing and an ISTQB certification. <br><br>
  My goal is to become a skilled SDET, <span> and contribute to building and testing high-quality Applications and software products, <br><br>
  I'm passionate about ensuring that software meets customer requirements and user expectations.<br><br>
  In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
  <hr>
 
 
-## 💻 
-<br> Programing and Tools 
+## 💻 Programming  Languages and Tools 
 
 <div align="left">
   
   <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="30" height="30" />
   <img src="https://img.icons8.com/?size=2x&id=WbhlkucPF3tZ&format=png" alt="Selenium Test Automation" width="30" height="30" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" widt h="30" height="30" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="30" height="30" />
   <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30" height="30" />
@@ -25,19 +24,13 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
 </div>
 <hr>
 
-## 
- 
-
- <hr>
- 
- [![iDerejes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iDereje)](https://github.com/iDereje/github-readme-stats)
- 
-## 
+## Dynamic Stat 
  
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
  <br>
  
-
+ <hr>
+ 
  
 ### 📞 Contact Me 
  
