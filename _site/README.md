@@ -8,11 +8,13 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
  <hr>
 
 
-## 💻 My Skills
+## Programing and Tools 
 <br>
 
 <div align="left">
-  
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
+ 
   <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="30" height="30" />
   <img src="https://img.icons8.com/?size=2x&id=WbhlkucPF3tZ&format=png" alt="Selenium Test Automation" width="30" height="30" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" widt h="30" height="30" />
