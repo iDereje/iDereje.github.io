@@ -36,8 +36,7 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
  
 ## Rank 
  
-![iDerej's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&show_icons=true&theme=radical)
- 
+![iDerej's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&hide_rank=true&show_icons=true&theme=radical)
 
  
 
