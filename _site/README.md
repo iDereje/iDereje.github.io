@@ -12,7 +12,7 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
 <br>
 
 <div align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+ 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
  
   <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="30" height="30" />
