@@ -8,8 +8,8 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
  <hr>
 
 
-## 💻 My Skills
-<br>
+## 💻 
+<br> Programing and Tools 
 
 <div align="left">
   
@@ -25,12 +25,14 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
 </div>
 <hr>
 
-## Programming Languages 
+## 
  
 
  <hr>
  
-## Rank 
+ [![iDerejes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iDereje)](https://github.com/iDereje/github-readme-stats)
+ 
+## 
  
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
  <br>
