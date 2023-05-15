@@ -29,7 +29,7 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
 
 ## Programming Languages 
  
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css%langs_count=10"/> </a>
  <br>
  
  <hr>
