@@ -34,7 +34,7 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
  
  <hr>
  
-## Rank 
+## My Current Dynamic Stat 
  
 ![iDerej's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&hide_rank=true&show_icons=true&theme=radical)
 
