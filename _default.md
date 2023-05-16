@@ -1,4 +1,11 @@
-<head>
-  <!-- Other head elements -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-</head>
+---
+layout: default
+---
+
+## Icons
+
+Here are some Font Awesome icons:
+
+- <i class="fa fa-camera"></i> Camera
+- <i class="fa fa-music"></i> Music
+- <i class="fa fa-gamepad"></i> Gamepad
