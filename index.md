@@ -14,15 +14,43 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
 ## 💻 Programming  Languages and Tools 
 
 <div align="left">
-  
+ 
+<a href="https://www.selenium.dev">
   <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="30" height="30" />
+</a>
+
+<a href="https://www.selenium.dev/documentation/en/selenium_installation/installing_selenium_libraries/">
   <img src="https://img.icons8.com/?size=2x&id=WbhlkucPF3tZ&format=png" alt="Selenium Test Automation" width="30" height="30" />
+</a>
+
+<a href="https://www.python.org">
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="30" height="30" />
+</a>
+
+<a href="https://testng.org">
   <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
+</a>
+
+<a href="https://cucumber.io">
   <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
+</a>
+
+<a href="https://git-scm.com">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30" height="30" />
+</a>
+
+<a href="https://github.com">
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/> 
+</a>
+
+<a href="https://www.docker.com">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/>
+</a>
+
+<a href="https://www.johnbryce.co.il/">
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="30" height="30"/>
+</a>
+
    
 </div>
 <hr>
