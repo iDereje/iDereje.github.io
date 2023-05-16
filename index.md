@@ -20,7 +20,8 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30" height="30" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/> 
-   
+   <img src="https://iDereje.github.io/icons/linux-svgrepo-com.svg" alt="Icon" width="30" height="30" />
+
 </div>
 <hr>
 
