@@ -86,7 +86,8 @@ Join me on this exciting quest of testing excellence and let's make the world of
  
  <hr>
  
- ## Tropyhies 
+## Trophies
+
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
   
