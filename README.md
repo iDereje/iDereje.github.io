@@ -6,6 +6,9 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  I'm passionate about ensuring that software meets customer requirements and user expectations.<br><br>
  In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
  <hr>
+ 
+ ## Tropyhies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 
 ## 💻 Programming  Languages and Tools 
