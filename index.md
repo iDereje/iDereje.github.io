@@ -70,7 +70,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 </div>
 
   
-</div>
+
 <hr>
  
  
@@ -80,13 +80,16 @@ Join me on this exciting quest of testing excellence and let's make the world of
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
  <br>
  
- <hr>
+
  
  ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical)
+ 
+ <hr>
  
  ## Tropyhies 
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
+  
  
 <hr>
  
