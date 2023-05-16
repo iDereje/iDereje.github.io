@@ -1,6 +1,3 @@
-## 👋 Happy to see you still reading 👋
-
-<hr>
 
 🌟 Welcome to my world of software testing and quality assurance! 🌟
 
