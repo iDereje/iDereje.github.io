@@ -1,31 +1,20 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-    <link rel="navigation" href="/_site/_includes/navigation.html">
-  </head>
-  <body>
-     👋 Hi there, I'm David! 👋
+ 👋 Hi there, I'm David! 👋
 <hr>
-I'm a Junior QA Engineer based in Israel<br> <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
-with a strong foundation in software testing and ISTQB certified. <br><br>
+I'm a Junior QA Engineer based in Israel <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
+with a strong foundation in software testing and an ISTQB certification. <br><br>
  My goal is to become a skilled SDET, <span> and contribute to building and testing high-quality Applications and software products, <br><br>
  I'm passionate about ensuring that software meets customer requirements and user expectations.<br><br>
  In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
  <hr>
 
 
-## Programing and Tools 
-<br>
+## 💻 Programming  Languages and Tools 
 
 <div align="left">
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
- 
+  
   <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="30" height="30" />
   <img src="https://img.icons8.com/?size=2x&id=WbhlkucPF3tZ&format=png" alt="Selenium Test Automation" width="30" height="30" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" widt h="30" height="30" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="30" height="30" />
   <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30" height="30" />
@@ -35,19 +24,17 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
 </div>
 <hr>
 
-## Programming Languages 
+## Dynamic Stat 
  
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css%langs_count=10"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
  <br>
  
  <hr>
- 
-## My Current Dynamic Stat 
- 
-![iDerej's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&hide_rank=true&show_icons=true&theme=radical)
+ ![Profile picture](https://github.com/iDereje/iDereje/blob/main/assets/profile.png)
 
  
-
+ ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical)
+ 
  
 ### 📞 Contact Me 
  
@@ -65,7 +52,3 @@ with a strong foundation in software testing and ISTQB certified. <br><br>
 
 <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" />
 
-   
-    <h1>hello world!</h1>
-  </body>
-</html>
