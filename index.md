@@ -6,6 +6,9 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  I'm passionate about ensuring that software meets customer requirements and user expectations.<br><br>
  In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
  <hr>
+ 
+ ## Tropyhies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 
 ## 💻 Programming  Languages and Tools 
@@ -20,20 +23,16 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30" height="30" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/> 
-   <img src="https://iDereje.github.io/icons/linux-svgrepo-com.svg" alt="Icon" width="30" height="30" />
-
+   
 </div>
 <hr>
 
-## Github Statistics 
+## Dynamic Stat 
  
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
  <br>
  
  <hr>
- 
-
-
  
  ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical)
  
@@ -53,4 +52,3 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
   <br>
 
 <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" />
-
