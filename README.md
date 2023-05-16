@@ -1,7 +1,7 @@
 <<<<<<< HEAD
+======
 # 👋 Hi there, I'm David! 👋
 =======
- 👋 Hi there, I'm David! 👋
 <hr>
 I'm a Junior QA Engineer based in Israel <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
 with a strong foundation in software testing and an ISTQB certification. <br><br>
