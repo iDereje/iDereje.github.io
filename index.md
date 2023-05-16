@@ -1,11 +1,19 @@
- 👋 Hi there, I'm David! 👋
+👋 Hi there, I'm David! 👋
+
 <hr>
-I'm a Junior QA Engineer based in Israel <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
-with a strong foundation in software testing and an ISTQB certification. <br><br>
- My goal is to become a skilled SDET, <span> and contribute to building and testing high-quality Applications and software products, <br><br>
- I'm passionate about ensuring that software meets customer requirements and user expectations.<br><br>
- In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
- <hr>
+
+🌟 Welcome to my world of software testing and quality assurance! 🌟
+
+I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET (Software Development Engineer in Test). With my strong foundation in software testing and an ISTQB certification, I strive to contribute to the development and testing of high-quality applications and software products.
+
+✨ Passionate about ensuring that software not only meets customer requirements but also exceeds user expectations, I am dedicated to creating exceptional user experiences.
+
+In my journey towards excellence, I love exploring the latest testing tools and techniques, constantly honing my skills. When I'm not busy testing, you can find me immersed in the virtual worlds of video games 🎮, diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe 🌍.
+
+Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
+
+<hr>
+
  
  
 
