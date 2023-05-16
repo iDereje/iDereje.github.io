@@ -64,6 +64,12 @@ Join me on this exciting quest of testing excellence and let's make the world of
 <a href="https://www.docker.com">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/>
 </a>
+ 
+ <a href="https://git-scm.com">
+  <img src="icons/icons/atom.svg" alt="Atom" width="30" height="30" />
+</a>
+
+
 
 
 
