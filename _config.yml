@@ -2,3 +2,9 @@ theme: jekyll-theme-cayman
 title: QA Test Engineer
 description: Open for hire 
 url: https://idereje.github.io/iDereje/
+sass:
+  style: compressed
+  sass_dir: _sass
+  css_dir: assets/css
+  include: ['_sass']
+  additional_paths: ['assets/css']
