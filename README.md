@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 # 👋 Hi there, I'm David! 👋
+=======
+ 👋 Hi there, I'm David! 👋
+<hr>
+I'm a Junior QA Engineer based in Israel <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" /> <br>
+with a strong foundation in software testing and an ISTQB certification. <br><br>
+ My goal is to become a skilled SDET, <span> and contribute to building and testing high-quality Applications and software products, <br><br>
+ I'm passionate about ensuring that software meets customer requirements and user expectations.<br><br>
+ In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
+ <hr>
+ 
+ ## Tropyhies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
+>>>>>>> 101308d5ba7c1710065dd852db99dcf3134706e6
 
 <hr>
 
