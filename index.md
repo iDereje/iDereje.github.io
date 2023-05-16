@@ -7,14 +7,16 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
  <hr>
  
- ## Tropyhies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
-
+ 
 
 ## 💻 Programming  Languages and Tools 
 
 <div align="left">
- 
+
+<a href="https://www.python.org">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="30" height="30" />
+</a>
+
 <a href="https://www.selenium.dev">
   <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="30" height="30" />
 </a>
@@ -23,16 +25,24 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
   <img src="https://img.icons8.com/?size=2x&id=WbhlkucPF3tZ&format=png" alt="Selenium Test Automation" width="30" height="30" />
 </a>
 
-<a href="https://www.python.org">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="30" height="30" />
-</a>
-
 <a href="https://testng.org">
   <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
 </a>
 
 <a href="https://cucumber.io">
   <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30" height="30"/>
+</a>
+
+<a href="https://www.debian.org/">
+  <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" width="30" height="30"/>
+</a>
+
+<a href="https://docs.microsoft.com/en-us/powershell/">
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="30" height="30"/>
 </a>
 
 <a href="https://git-scm.com">
@@ -47,13 +57,15 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/>
 </a>
 
-<a href="https://www.johnbryce.co.il/">
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="30" height="30"/>
-</a>
 
-   
+
+</div>
+
+  
 </div>
 <hr>
+ 
+ 
 
 ## Dynamic Stat 
  
@@ -63,6 +75,12 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  <hr>
  
  ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical)
+ 
+ ## Tropyhies 
+ 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
+ 
+<hr>
  
  
 ### 📞 Contact Me 
