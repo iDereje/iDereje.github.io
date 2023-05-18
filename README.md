@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 
-======
 # 👋 Hi there, I'm David! 👋
-======
+
 
 I'm a Junior QA Engineer based in Israel <span> <img src="https://img.icons8.com/?size=2x&id=NTsYlUSE7CmD&format=png" alt="Globus" width="25" height="25" />
 with a strong foundation in software testing and an ISTQB certification. <br><br>
@@ -96,7 +94,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
  
  
 
-## Dynamic States
+## Github Dynamic States and Rank Bar 
  
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
  <br>
