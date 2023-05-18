@@ -90,24 +90,24 @@ Join me on this exciting quest of testing excellence and let's make the world of
   
 </div>
 
-#####  <hr>
+<hr>
 
 ##  Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
 
 
 
-##### <hr>
+ <hr>
 
  ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical&count_private=true)
 
-#### <hr>
+ <hr>
  
 ## Github Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 
-#### <hr>
+<hr>
 
 ## 📞 Open For Hire  
 <div align="left">
