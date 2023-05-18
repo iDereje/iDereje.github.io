@@ -50,6 +50,28 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="30" height="30"/>
 </a>
 
+</a>
+
+<a href="https://testng.org">
+  <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
+</a>
+
+<a href="https://cucumber.io">
+  <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30" height="30"/>
+</a>
+
+<a href="https://www.debian.org/">
+  <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" width="30" height="30"/>
+</a>
+
+<a href="https://docs.microsoft.com/en-us/powershell/">
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="30" height="30"/>
+</a>
+
 <a href="https://git-scm.com">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30" height="30" />
 </a>
@@ -61,55 +83,38 @@ Join me on this exciting quest of testing excellence and let's make the world of
 <a href="https://www.docker.com">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30"/>
 </a>
- 
- <a href="https://git-scm.com">
-  <img src="icons/icons/atom.svg" alt="Atom" width="30" height="30" />
+  
+  <a href ="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16">
+  <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" alt="Badge Name" width="30" height="30">
 </a>
-
-
-
-
-
+  
 </div>
 
-  
+#####  <hr>
 
-<hr>
- 
- 
+##  Github Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
 
-## Dynamic Stat 
- 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDereje&theme=react&line_height=40&hide=css"/> </a>
- <br>
- 
 
- 
- ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical)
- 
- <hr>
- 
-## Trophies
 
+##### <hr>
+
+ ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical&count_private=true)
+
+#### <hr>
  
+## Github Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
-  
- 
-<hr>
- 
- 
-### 📞 Contact Me 
- 
-<br>
 
+
+#### <hr>
+
+## 📞 Open For Hire  
 <div align="left">
-  <a href="mailto:david.dereje@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+  <a href="mailto:derejeisack@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/daviddereje/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/david_dereje"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://twitter.com/DavidDerejeM"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
 </div>
- 
- <br>
- <hr>
-  <br>
 
-<span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" />
+![](https://komarev.com/ghpvc/?username=iDereje&color=green) <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" /> 
+
