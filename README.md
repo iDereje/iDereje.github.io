@@ -11,7 +11,6 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  
  ## Tropyhies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
->>>>>>> 101308d5ba7c1710065dd852db99dcf3134706e6
 
 <hr>
 
