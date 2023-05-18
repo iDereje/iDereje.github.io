@@ -30,9 +30,6 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <img src="https://img.icons8.com/?size=2x&id=WbhlkucPF3tZ&format=png" alt="Selenium Test Automation" width="30" height="30" />
 </a>
 
-<a href="https://testng.org">
-  <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
-</a>
 
 <a href="https://cucumber.io">
   <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
@@ -50,26 +47,10 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="30" height="30"/>
 </a>
 
-</a>
+
 
 <a href="https://testng.org">
   <img src="https://img.icons8.com/color/48/000000/test-tube-rack.png" alt="TestNG" width="30" height="30"/>
-</a>
-
-<a href="https://cucumber.io">
-  <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="30" height="30"/>
-</a>
-
-<a href="https://www.linux.org/">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30" height="30"/>
-</a>
-
-<a href="https://www.debian.org/">
-  <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" width="30" height="30"/>
-</a>
-
-<a href="https://docs.microsoft.com/en-us/powershell/">
-  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="30" height="30"/>
 </a>
 
 <a href="https://git-scm.com">
