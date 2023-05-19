@@ -119,4 +119,6 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  <hr>
   <br>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0EWme3SHGYEmarH9JkMkbZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" />
