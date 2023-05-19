@@ -1,18 +1,23 @@
-<<<<<<< HEAD
 #theme: jekyll-theme-cayman
 remote_theme: lewismiddleton/cayman-dark
 title: Quality Assurance Engineer
 description: David Dereje Mesganaw
-=======
-theme: jekyll-theme-cayman
-title: Quality Assurance Test Engineer
-description: David Dereje M.
->>>>>>> c1e2a295e0e0962906cbaac4b31e74f39454debd
 url: https://idereje.github.io/iDereje/
-google_analytics: [Your Google Analytics tracking ID]
 sass:
   style: compressed
   sass_dir: _sass
   css_dir: assets/css
   include: ['_sass']
   additional_paths: ['assets/css']
+footer:
+  links:
+    - title: "LinkedIn"
+      url: https://www.linkedin.com/in/david-dereje-mesganaw-0b1b1a1a/
+    - title: "GitHub"
+      url:https://www.github.com/iDereje
+    - title: "Twitter"
+      url: https://twitter.com/DavidDereje
+    - title: "Email"
+      url: mailto:Derejeisack@gmail.com
+    
+
