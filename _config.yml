@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
+
+#theme: jekyll-theme-cayman
 title: Quality Assurance Engineer
 description: David Dereje Mesganaw
 url: https://idereje.github.io/iDereje/
