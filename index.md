@@ -8,16 +8,8 @@ I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET (S
 In my journey towards excellence, I love exploring the latest testing tools and techniques, constantly honing my skills. When I'm not busy testing, you can find me immersed in the virtual worlds of video games 🎮, diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe 🌍.
 
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
-
-<p align="center">
-  <strong>Hit the Right Note and Elevate Your Experience!</strong><br>
-  Pick a Song and Enjoy While Reading
-</p>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 ## 💻 Programming  Languages and Tools 
-
 <div align="left">
 
 <a href="https://www.python.org">
@@ -92,6 +84,15 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <a href="https://www.linkedin.com/in/daviddereje/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://twitter.com/DavidDerejeM"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
 </div>
+<hr>
+
+<p align="center">
+  <strong>Hit the Right Note and Elevate Your Experience!</strong><br>
+  Spotify Playlist
+</p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![](https://komarev.com/ghpvc/?username=iDereje&color=green) <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" /> 
+
 
