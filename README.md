@@ -15,13 +15,6 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
 
 <hr>
 
-
-
-<hr>
-
- 
- 
-
 ## 💻 Programming  Languages and Tools 
 
 <div align="left">
