@@ -87,21 +87,17 @@ Join me on this exciting quest of testing excellence and let's make the world of
  
 <iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Listen to this playlist while coding, and may the bugs dance to the rhythm! 🎶🐛
+Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
 
 ---
 
 ### YouTube Playlist 🔧 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-Grab your headphones and join the QA testing journey with the ultimate bug-bashing anthems! 🔨🐞
+Join the QA testing journey with the ultimate guid! 🔨🐞
 
 ---
 
-Disclaimer: Bugs are no match for the power of music. Enjoy responsibly and squash them with passion! 🎧💪
-
-
-<hr>
 ### 📞 Open For Hire  
 <div align="left">
   <a href="mailto:derejeisack@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
