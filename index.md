@@ -9,7 +9,6 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 
  
@@ -69,6 +68,12 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <a href ="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16">
   <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" alt="Badge Name" width="30" height="30">
 </a>
+
+  <a href="https://www.vercel.com">
+    <img src="https://github.com/iDereje/iDereje.github.io/blob/2a630fbc21c5c57989bbd647c69f5db4107f109b/public/vercel.svg" alt="Vercel" width="30" height="30" />
+  </a>
+
+
   
 </div>
 
@@ -98,6 +103,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <a href="https://twitter.com/DavidDerejeM"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
 </div>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
