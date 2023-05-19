@@ -9,7 +9,6 @@ with a strong foundation in software testing and an ISTQB certification. <br><br
  In my free time, I enjoy exploring new testing tools and techniques, playing video games 🎮<span>, reading books 📚<span> , and travelling 🌍<span>.<br>
  <hr>
 
-<div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </div>
  
  ## Tropyhies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
