@@ -15,9 +15,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 </p>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="300" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
- 
-
+<hr>
 ## 💻 Programming  Languages and Tools 
 
 <div align="left">
@@ -73,42 +71,27 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" alt="Badge Name" width="30" height="30">
 </a>
 
-  <a href="https://www.vercel.com">
-    <img src="https://github.com/iDereje/iDereje.github.io/blob/2a630fbc21c5c57989bbd647c69f5db4107f109b/public/vercel.svg" alt="Vercel" width="30" height="30" />
-  </a>
-
-
-  
 </div>
-
 <hr>
 
 ##  Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
 
 
-
- <hr>
-
  ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical&count_private=true)
 
  <hr>
- 
+
 ## Github Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
-
 <hr>
-
 ## 📞 Open For Hire  
 <div align="left">
   <a href="mailto:derejeisack@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/daviddereje/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://twitter.com/DavidDerejeM"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
 </div>
-
-
-
 
 ![](https://komarev.com/ghpvc/?username=iDereje&color=green) <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" /> 
 
