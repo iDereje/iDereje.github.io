@@ -8,15 +8,3 @@ sass:
   css_dir: assets/css
   include: ['_sass']
   additional_paths: ['assets/css']
-footer:
-  links:
-    - title: "LinkedIn"
-      url: https://www.linkedin.com/in/david-dereje-mesganaw-0b1b1a1a/
-    - title: "GitHub"
-      url:https://www.github.com/iDereje
-    - title: "Twitter"
-      url: https://twitter.com/DavidDereje
-    - title: "Email"
-      url: mailto:Derejeisack@gmail.com
-    
-
