@@ -97,5 +97,9 @@ Join me on this exciting quest of testing excellence and let's make the world of
   <a href="https://twitter.com/DavidDerejeM"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
 </div>
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0EWme3SHGYEmarH9JkMkbZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 ![](https://komarev.com/ghpvc/?username=iDereje&color=green) <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" /> 
 
