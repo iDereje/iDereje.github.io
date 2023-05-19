@@ -82,19 +82,18 @@ Join me on this exciting quest of testing excellence and let's make the world of
 ### Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
 
 ---
-
-### Spotify Playlist 🎵
+ 🎶🐛 Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
  
 <iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
+
 
 ---
 
-### YouTube Playlist 🔧 
+🔨🐞 Join the QA testing journey with the ultimate guid! 🔨🐞
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-Join the QA testing journey with the ultimate guid! 🔨🐞
+
 
 ---
 
