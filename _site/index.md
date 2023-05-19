@@ -9,18 +9,12 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
 
-
-
-
 <p align="center">
   <strong>Hit the Right Note and Elevate Your Experience!</strong><br>
   Pick a Song and Enjoy While Reading
 </p>
-<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="300" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</hr>
- 
-
+<hr>
 ## 💻 Programming  Languages and Tools 
 
 <div align="left">
