@@ -8,7 +8,7 @@ I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET (S
 In my journey towards excellence, I love exploring the latest testing tools and techniques, constantly honing my skills. When I'm not busy testing, you can find me immersed in the virtual worlds of video games 🎮, diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe 🌍.
 
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
-
+<hr>
 <p align="center">
   <strong>Hit the Right Note and Elevate Your Experience!</strong><br>
   Pick a Song and Enjoy While Reading
