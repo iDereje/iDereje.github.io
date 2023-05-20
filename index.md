@@ -1,15 +1,18 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+David+Mesganaw;I'm+a+Quality+Assurance+Test+Engineer;Ensuring+quality+in+🧪software🐞+is+my+passion;Finding+🐛bugs🔍+and+making+software+🚀better;Debugging+like+a+ninja;+and+Reporting+issues+like+a+pro+is+my+goal;)](https://git.io/typing-svg)
 
-🌟 Welcome to my world of software testing and quality assurance! 🌟
+                                           🌟 Welcome to my world of software testing and quality assurance! 🌟            
 
-I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET (Software Development Engineer in Test). With my strong foundation in software testing and an ISTQB certification, I strive to contribute to the development and testing of high-quality applications and software products.
+   I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET (Software Development Engineer in Test). With my strong foundation in software testing and an ISTQB certification
+, I strive to contribute to developing and testing high-quality applications and software products.
 
-✨ Passionate about ensuring that software not only meets customer requirements but also exceeds user expectations, I am dedicated to creating exceptional user experiences.
+✨ Passionate about ensuring that software meets customer requirements and exceeds user expectations, I am dedicated to creating exceptional user experiences.
 
-In my journey towards excellence, I love exploring the latest testing tools and techniques, constantly honing my skills. When I'm not busy testing, you can find me immersed in the virtual worlds of video games 🎮, diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe 🌍.
+In my journey towards excellence, I love exploring the latest testing tools and techniques, and constantly honing my skills. When I'm not busy testing, you can find me immersed in the virtual worlds of video games 🎮, diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe 🌍.
 
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
 <hr>
-## 💻 Programming  Languages and Tools 
+
+                                                            💻 Programming  Languages and Tools 
 <div align="left">
 
 <a href="https://www.python.org">
@@ -66,7 +69,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 </div>
 <hr>
 
-##  Github Statistics
+                                                                     Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
 
 
@@ -74,27 +77,21 @@ Join me on this exciting quest of testing excellence and let's make the world of
 
  <hr>
 
-## Github Trophies
+                                                                     Github Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 <hr>
 
-### Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
-
 ---
 
-### Spotify Playlist 🎵
- 
-<iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
-
----
-
-### YouTube Playlist 🔧 
+🔨🐞 Embark on the QA testing journey with my curated selection of essential resources! 🔨🐞
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-Join the QA testing journey with the ultimate guid! 🔨🐞
+---
+### Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
+Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
+ 
+<iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
