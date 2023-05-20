@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: David Dereje M.
 description: Quality Assurance Engineer 
 url: https://idereje.github.io/iDereje/
-google_analytics: [G-ELWJ94MTHD]
+google_analytics: G-ELWJ94MTHD
 sass:
   style: compressed
   sass_dir: _sass
