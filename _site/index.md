@@ -20,7 +20,8 @@ diving into the pages of captivating books 📚, or embarking on thrilling adven
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
 <hr>
 
-##  💻 Programming  Languages and Tools 💻 ##
+##  💻 Programming  Languages and Tools 💻 
+
 <div align="left">
 
 <a href="https://www.python.org">
@@ -84,7 +85,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 
  <hr>
 
-  ## Github Trophies
+## Github Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 <hr>
@@ -102,7 +103,8 @@ Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶�
 
 ---
 
-### 📞 Open For Hire  
+###  📞 Open For Hire  
+
 <div align="left">
   <a href="mailto:derejeisack@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/daviddereje/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
