@@ -79,13 +79,13 @@ Join me on this exciting quest of testing excellence and let's make the world of
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
 
+![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical&count_private=true)
 
- ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical&count_private=true)
+<hr>
 
- <hr>
+## Github Trophies
 
-  ## Github Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 <hr>
 
@@ -98,7 +98,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 ### Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
 Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
  
-<iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ <iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
