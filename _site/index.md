@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+David+Mesganaw;I'm+a+Quality+Assurance+Test+Engineer;Ensuring+quality+in+🧪software🐞+is+my+passion;Finding+🐛bugs🔍+and+making+software+🚀better;Debugging+like+a+ninja;+and+Reporting+issues+like+a+pro+is+my+goal;)](https://git.io/typing-svg)
 
-                                           🌟 Welcome to my world of software testing and quality assurance! 🌟            
+ 🌟 Welcome to my world of software testing and quality assurance! 🌟            
 
    I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET (Software Development Engineer in Test). With my strong foundation in software testing and an ISTQB certification
 , I strive to contribute to developing and testing high-quality applications and software products.
@@ -12,7 +12,7 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
 <hr>
 
-                                                            💻 Programming  Languages and Tools 
+💻 Programming  Languages and Tools 
 <div align="left">
 
 <a href="https://www.python.org">
