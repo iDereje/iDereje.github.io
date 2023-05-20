@@ -92,7 +92,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 ---
 
 🔨🐞 Embark on the QA testing journey with my curated selection of essential resources! 🔨🐞
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 ---
 ### Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
