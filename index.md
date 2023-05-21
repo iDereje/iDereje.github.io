@@ -1,26 +1,19 @@
+### **🌟 Welcome to my world of software testing and quality assurance! 🌟**
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+David!;I'm+a+Quality+Assurance+Test+Engineer🔨;Ensuring+quality+in+🧪software🐞+is+my+passion;Finding+🐛bugs🔍+and+making+software+🚀better;Debugging+like+a+ninja;+and+Reporting+issues+like+a+pro+is+my+goal;)](https://git.io/typing-svg)
+---
 
-### 🌟 Welcome to my world of software testing and quality assurance! 🌟
 
-I'm a Junior QA Engineer based in Israel, on a quest to become a skilled SDET 
+---
 
+I'm a Junior QA Engineer based in Israel, on a quest to become a skilled **SDET**
 With my strong foundation in software testing and an **ISTQB certification**
 , I strive to contribute to developing and testing 
-high-quality applications and software products.
+high-quality applications and software products. 
 
-**✨ Passionate about ensuring that software meets customer requirements**
-and exceeds user expectations, I am dedicated to creating exceptional user experiences.
+---
 
-**In my journey towards excellence, I love exploring the latest testing tools and techniques, and constantly honing my skills.**
-
-When I'm not busy testing, you can find me immersed in the virtual worlds of video games 🎮
-
-diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe 🌍.
-
-Join me on this exciting quest of testing excellence and let's make the world of software even better! 🚀
-<hr>
-
-**💻 Programming  Languages and Tools 💻**
+## **💻 Programming  Languages and Tools 💻**
 <div align="left">
 
 <a href="https://www.python.org">
@@ -73,9 +66,16 @@ Join me on this exciting quest of testing excellence and let's make the world of
 </a>
 
 </div>
-<hr>
 
-**Github Statistics**
+####  **✨I am  Passionate about ensuring that software meets customer requirements ✨**
+
+and exceeds user expectations, I am dedicated to creating exceptional user experiences.
+
+In my journey towards excellence, I love exploring the latest testing tools and techniques, and constantly honing my skills.
+
+---
+
+### **Github Statistics**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
 
@@ -83,20 +83,30 @@ Join me on this exciting quest of testing excellence and let's make the world of
 
 <hr>
 
-**Github Trophies**
+### **Github Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
-<hr>
+
+---
+
+###  **When I'm not busy testing, you can find me immersed in the virtual worlds of video games** **🎮**
+
+diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe **🌍**.
+
 
 ---
 
 **🔨🐞 Embark on the QA testing journey with my curated selection of essential resources! 🔨🐞**
 
+---
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
 ---
+### **Join me on this exciting quest of testing excellence and let's make the world of software even better!**  **🚀**
+
 **Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance**
 
 <div style="display: flex; gap: 10px;">
