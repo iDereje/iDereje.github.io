@@ -110,6 +110,25 @@ Join me on this exciting quest of testing excellence and let's make the world of
 
 ---
 
+
+
+
+
+<div style="display: flex; gap: 10px;">
+<div markdown="1" style="flex-basis: 50%;">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
+</div>
+<div markdown="1" style="flex-basis: 50%;">
+<iframe style="border-radius: 12px; width: 100%; height: 100%;" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+</div>
+
+
+
+
+
+---
+
 ### 📞 Open For Hire  
 <div align="left">
   <a href="mailto:derejeisack@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
