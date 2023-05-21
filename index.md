@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+David!;I'm+a+Quality+Assurance+Test+Engineer🔨;Ensuring+quality+in+🧪software🐞+is+my+passion;Finding+🐛bugs🔍+and+making+software+🚀better;Debugging+like+a+ninja;+and+Reporting+issues+like+a+pro+is+my+goal;)](https://git.io/typing-svg)
 ---
-### **🌟 Welcome to my world of software testing and quality assurance! 🌟**
+### **🌟 Welcome to my world of software testing and quality assurance!🌟**
 
 ---
 
@@ -72,7 +72,7 @@ high-quality applications and software products.
 
 ---
 
-####  **✨I am  Passionate about ensuring that software meets customer requirements✨**
+**✨I am  Passionate✨ about ensuring that software meets customer requirements**
 
 and exceeds user expectations, I am dedicated to creating exceptional user experiences.
 
@@ -97,12 +97,14 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 **When I'm not busy testing, you can find me immersed in the virtual worlds of video games** **🎮**
 
-diving into the pages of captivating books 📚, or embarking on thrilling adventures around the globe **🌍**.
+diving into the pages of captivating books 📚, 
+or embarking on thrilling adventures around the globe **🌍**.
 
 
 ---
 
-**🔨🐞Embark on the QA testing journey with my curated selection of essential resources!🔨🐞**
+**🔨Embark on the QA testing journey with my curated🔨
+    🐞selection of essential resources!🐞**
 
 ---
 
