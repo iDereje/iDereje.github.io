@@ -98,7 +98,7 @@ Join me on this exciting quest of testing excellence and let's make the world of
 ### Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
 Listen to this playlist while coding, and may the bugs fly to the rhythm! 🎶🐛
  
- <iframe src="https://open.spotify.com/embed/playlist/7wHIfG3Ta2QBicsjDwRbd9?utm_source=generator" width="100%" height="400" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>me>
 
 ---
 
