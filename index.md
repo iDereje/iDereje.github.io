@@ -116,15 +116,12 @@ or embarking on thrilling adventures around the globe **🌍**.
 
 Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
 
-<div style="display: flex; gap: 10px;">
-<div markdown="1" style="flex-basis: 50%;">
-<iframe style="border-radius: 12px; width: 100%; height: 100vh;" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-<div markdown="1" style="flex-basis: 50%;">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
-</div>
-</div>
+You
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+---
+Me 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
 
 ---
 
