@@ -93,20 +93,19 @@ Join me on this exciting quest of testing excellence and let's make the world of
 
 🔨🐞 Embark on the QA testing journey with my curated selection of essential resources! 🔨🐞
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
+
 
 
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        🔨🐞 Embark on the QA testing journey with my curated selection of essential resources! 🔨🐞
-        <br>
-        <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
-    <div>
         [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
     </div>
+    <div>
+        <iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
 </div>
+
 
 
 ---
