@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+David!;I'm+a+Quality+Assurance+Test+Engineer🔨;Ensuring+quality+in+🧪software🐞+is+my+passion;Finding+🐛bugs🔍+and+making+software+🚀better;Debugging+like+a+ninja;+and+Reporting+issues+like+a+pro+is+my+goal;)](https://git.io/typing-svg)
 ---
-### **🌟 Welcome to my world of software testing and quality assurance!🌟**
+### **🌟 Welcome to my world of software testing and quality assurance!**
 
 ---
 
@@ -103,8 +103,8 @@ or embarking on thrilling adventures around the globe **🌍**.
 
 ---
 
-**🔨Embark on the QA testing journey with my curated🔨
-    🐞selection of essential resources!🐞**
+**Embark on the 🐞QA testing🐞 journey with my curated
+   🔨 selection of essential resources!🔨**
 
 ---
 
@@ -112,18 +112,19 @@ or embarking on thrilling adventures around the globe **🌍**.
 
 
 ---
-### **Join me on this exciting quest of testing excellence and let's make the world of software even better!**  **🚀**
+###  **🚀** **Join me on this exciting quest of testing excellence and let's make the world of software even better!** 
 
 Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
 
-<div style="display: flex; gap: 10px;">
-<div markdown="1" style="flex-basis: 50%;">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
+<div style="display: flex; flex-direction: row-reverse; gap: 10px;">
+    <div markdown="1" style="flex-basis: 50%;">
+        <iframe style="border-radius: 12px; width: 100%; height: 100%;" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <div markdown="1" style="flex-basis: 50%;">
+        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/iDereje/spotify-github-profile)
+    </div>
 </div>
-<div markdown="1" style="flex-basis: 50%;">
-<iframe style="border-radius: 12px; width: 100%; height: 100%;" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-</div>
+
 
 ---
 
