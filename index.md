@@ -172,7 +172,7 @@ or embarking on thrilling adventures around the globe **🌍**.
 
 ---
 **Press on  Trigram for Heaven for more essential educational videos  ☰ ⏬**
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
 ---
