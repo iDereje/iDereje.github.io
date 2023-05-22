@@ -20,15 +20,12 @@ high-quality applications and software products.
 ## 💻 Programming  Languages and Tools
 
 <div align="left">
+  
 
 <a href="https://www.python.org">
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="38" height="38" />
 </a>
   
-
-<a href="https://www.selenium.dev">
-  <img src="https://img.icons8.com/?size=2x&id=VOnRj9vGpXV8&format=png" alt="selenium" width="38" height="38" 
-</a>
   
 
 <a href="https://docs.oracle.com/en/java/">
@@ -52,8 +49,6 @@ high-quality applications and software products.
   <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" width="38" height="38"/>
 </a>
   
-
-  
   
 <a href="https://docs.microsoft.com/en-us/powershell/">
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="38" height="38"/>
@@ -66,10 +61,12 @@ high-quality applications and software products.
   
 
 <a href="https://github.com">
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="38" height="38" />
+ <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="38" height="38" />
 </a>
-  <a href="https://circleci.com/docs/" target="_blank">
-  <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/circleci-color.svg" alt="CircleCI" width="38" height="38" />
+  
+ <a href="https://circleci.com/docs/" target="_blank">
+ <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/circleci-color.svg" alt="CircleCI" width="38" height="38" />
+    
 </a>
 
 <a href="https://github.com/features/actions" target="_blank">
