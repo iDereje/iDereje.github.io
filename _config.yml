@@ -6,6 +6,6 @@ google_analytics: G-ELWJ94MTHD
 sass:
   style: compressed
   sass_dir: _sass
-  css_dir: assets/css
+  css_dir: _site/assets
   include: ['_sass']
   additional_paths: ['assets/css']
