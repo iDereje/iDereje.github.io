@@ -203,7 +203,7 @@ Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Qual
   <a href="https://twitter.com/DavidDerejeM"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
   
  <a href="https://github.com/iDereje">
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40" />
   
 </a>
 
