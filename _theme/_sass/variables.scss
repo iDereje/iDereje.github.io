@@ -3,18 +3,20 @@ $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
 // Headers
+
 $header-heading-color: #fff !default;
 $header-bg-color: #159957 !default;
 $header-bg-color-secondary: #155799 !default;
 
 // Text
-$section-headings-color: #159957 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
+// Override variables for dark theme
+$section-headings-color: #24292e !default;
+$body-text-color: #586069 !default;
+$body-link-color: #0366d6 !default;
 $blockquote-text-color: #819198 !default;
 
 // Code
-$code-bg-color: #f3f6fa !default;
+$code-bg-color: #0d0e0e !default;
 $code-text-color: #567482 !default;
 
 // Borders
