@@ -205,10 +205,3 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 </a>
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=iDereje&color=green) <span>  <img src="https://img.icons8.com/?size=512&id=IFmZRpbkaJYA&format=png" alt="Smile " width="150" height="150" /> 
-
-
-
-
-
