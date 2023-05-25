@@ -160,12 +160,12 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
+<hr>
+
 
 ###  **🚀** **Join me on this exciting quest of testing excellence and let's make the world of software even better!** 
 
-
-
-#### **Tap for Trigram for Heaven videos ☰    ⏬   to Discover QA testing with essential resources and coding playlist.** 
+####    **Explore QA testing with essential resources and a coding playlist by tapping ☰ ⏬** 
 
 
 

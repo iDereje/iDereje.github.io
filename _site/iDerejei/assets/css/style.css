@@ -1010,4 +1010,14 @@ a:hover {
   color: #819198;
 }
 
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+}
+
+hr:hover {
+  background-color: #999;
+}
+
 /*# sourceMappingURL=style.css.map */
