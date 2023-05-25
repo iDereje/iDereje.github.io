@@ -158,8 +158,8 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 ### **Github Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iDereje&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 
