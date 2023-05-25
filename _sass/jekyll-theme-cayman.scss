@@ -3,10 +3,10 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
-$code-bg-color: #9c9fa5;
-$body-bg-color: #b1b4b9;
-$header-bg-color: #7b7d82;
-$header-bg-color-secondary: #373e4d;
+$code-bg-color: #87898b;
+$body-bg-color: #cbced3;
+$header-bg-color: #222427eb;
+$header-bg-color-secondary: #949cad;
 // Override variables for dark theme
 $color-heading-primary: #b5bfc9;
 $color-heading-secondary: #c1cdda;
@@ -41,11 +41,10 @@ body {
   font-family: "Tahoma", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: rgba(255, 255, 255, 0.918);
-  background-color: rgb(49, 50, 56);
-  
-  
+  color: rgba(255, 255, 255, 0.982);
+  background-color: #1f2327; /* GitHub background color */
 }
+
 .icon {
   display: inline-block;
   width: 30px; /* Adjust the size as needed */
