@@ -664,10 +664,19 @@ body {
   font-family: "Tahoma", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: rgba(245, 245, 245, 0.765);
-  background-color: #24292e;
+  color: rgba(255, 255, 255, 0.918);
+  background-color: rgb(49, 50, 56);
 }
 
+.icon {
+  display: inline-block;
+  width: 30px; /* Adjust the size as needed */
+  height: 30px; /* Adjust the size as needed */
+  margin-right: 0.5em; /* Add spacing between the icon and text */
+  vertical-align: middle; /* Align the icon vertically with the text */
+}
+
+/* Other styles... */
 #skip-to-content {
   height: 1px;
   width: 1px;
@@ -740,8 +749,8 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #acb2bd;
-  background-image: linear-gradient(120deg, #373e4d, #acb2bd);
+  background-color: #7b7d82;
+  background-image: linear-gradient(120deg, #373e4d, #7b7d82);
 }
 @media screen and (min-width: 64em) {
   .page-header {
@@ -861,7 +870,7 @@ a:hover {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #567482;
-  background-color: #babec5;
+  background-color: #9c9fa5;
   border-radius: 0.3rem;
 }
 .main-content pre {
@@ -871,7 +880,7 @@ a:hover {
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
   color: #567482;
   word-wrap: normal;
-  background-color: #babec5;
+  background-color: #9c9fa5;
   border: solid 1px #dce6f0;
   border-radius: 0.3rem;
 }

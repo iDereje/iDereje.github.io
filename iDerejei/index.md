@@ -21,7 +21,7 @@ With my strong foundation in software testing and an **ISTQB certification**
 ---
 
 
- ### **💻 Programming  Languages and Tools**
+ <h3>💻 Programming  Languages and Tools</h3>
 
 <div align="left">
   
@@ -161,35 +161,27 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iDereje)](https://github.com/iDereje/github-profile-trophy)
 
 
----
-
-**When I'm not busy testing, you can find me immersed in the virtual worlds of video games** **🎮**
-
-diving into the pages of captivating books 📚, 
-or embarking on thrilling adventures around the globe **🌍**.
+###  **🚀** **Join me on this exciting quest of testing excellence and let's make the world of software even better!** 
 
 
----
 
-**Embark on the 🐞QA testing🐞 journey with my curated
-   🔨 selection of essential resources!🔨**
+#### **Tap for Trigram for Heaven videos ☰    ⏬   to Discover QA testing with essential resources and coding playlist.** 
 
----
-**Press on  Trigram for Heaven for more essential educational videos  ☰ ⏬**
+
+
 <iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PLwDNKNTiizksgOcHQK3dDjqPnDpdLXGTy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
 ---
-###  **🚀** **Join me on this exciting quest of testing excellence and let's make the world of software even better!** 
 
-Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance
+**Harmonious Tunes for Work and Bug-Squashing: A Symphony of Productivity and Quality Assurance**
 <div style="display: flex;">
   <div style="flex-basis: 60%; margin-right: 20px;">
-    <h3>Pick a Song 🎵 ↘️</h3> 
+    <h3><strong> Pick a Song </strong>🎵 ↘️ </h3> 
     <iframe style="border-radius: 12px" src="https://open.spotify.com/embed/playlist/0vNS2bS9226VEDIw7bHSwc?utm_source=generator&theme=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
   <div style="flex-basis: 40%;">
-    <h3>I am Listening to 🎶 🔽</h3>
+    <h3><strong>   <span>I am Listening to </span></strong> 🎶 🔽</h3>
     <div align="left" style="margin-top: 20px;">
       <a href="https://github.com/iDereje/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31p5jqa2xdf2obapfrqfg2cbfsgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="100%" height="352" />

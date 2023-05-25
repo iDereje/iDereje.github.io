@@ -3,9 +3,9 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
-$code-bg-color: #babec5;
+$code-bg-color: #9c9fa5;
 $body-bg-color: #b1b4b9;
-$header-bg-color: #acb2bd;
+$header-bg-color: #7b7d82;
 $header-bg-color-secondary: #373e4d;
 // Override variables for dark theme
 $color-heading-primary: #b5bfc9;
@@ -41,10 +41,21 @@ body {
   font-family: "Tahoma", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: rgba(245, 245, 245, 0.765);
-  background-color: #24292e;
+  color: rgba(255, 255, 255, 0.918);
+  background-color: rgb(49, 50, 56);
+  
   
 }
+.icon {
+  display: inline-block;
+  width: 30px; /* Adjust the size as needed */
+  height: 30px; /* Adjust the size as needed */
+  margin-right: 0.5em; /* Add spacing between the icon and text */
+  vertical-align: middle; /* Align the icon vertically with the text */
+}
+
+/* Other styles... */
+
 
 #skip-to-content {
   height: 1px;
