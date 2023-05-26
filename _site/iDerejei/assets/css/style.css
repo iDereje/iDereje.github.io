@@ -9,6 +9,19 @@ html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
+  scroll-behavior: smooth;
+  /* Target the scrollbar thumb */
+  /* Target the scrollbar thumb on hover */
+}
+html ::-webkit-scrollbar-track {
+  background-color: #db7c7c;
+}
+html ::-webkit-scrollbar-thumb {
+  background-color: #923c3c;
+  border-radius: 5px;
+}
+html ::-webkit-scrollbar-thumb:hover {
+  background-color: #a14747;
 }
 
 /**
@@ -1018,6 +1031,24 @@ hr {
 
 hr:hover {
   background-color: #999;
+}
+
+body {
+  /* Enable smooth scrolling */
+  scroll-behavior: smooth;
+  /* Customize scrollbars (optional) */
+  /* Add vendor-specific prefixes for cross-browser compatibility */
+  /* Example styles for WebKit (Chrome, Safari) */
+}
+body ::-webkit-scrollbar {
+  width: 10px;
+}
+body ::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 5px;
+}
+body ::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
 }
 
 /*# sourceMappingURL=style.css.map */
