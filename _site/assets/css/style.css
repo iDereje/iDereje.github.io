@@ -1056,11 +1056,12 @@ hr:hover {
 }
 .navigation-link:hover {
   color: #c1cdda; /* Set the link color on hover */
+  background-color: #121313;
 }
 
 .navigation-link,
 a {
-  color: #6e7e8e;
+  color: #62666a;
   display: inline-block;
   padding: 2px;
   border: 1px solid transparent; /* Add a transparent border */
@@ -1071,9 +1072,9 @@ a {
 }
 .navigation-link:hover,
 a:hover {
-  color: #557090;
-  border-color: #c1c6d2;
-  background-color: rgba(34, 36, 39, 0.9215686275);
+  color: #343639;
+  border-color: #454952;
+  background-color: rgba(107, 111, 117, 0.9215686275);
 }
 
 /*# sourceMappingURL=style.css.map */
