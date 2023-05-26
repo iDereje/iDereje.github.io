@@ -148,9 +148,18 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 ---
 
-### **Github Statistics**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&hide=css&count_private=true)](https://github.com/iDereje)
+<div>
+  <h3>
+    Wakatime Stats
+    <img src="https://iDereje.github.io/icons/wakatime-color.svg" alt="Wakatime Icon" style="width: 24px; vertical-align: middle;">
+  </h3>
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDereje&layout=compact&langs_count=10&theme=react&line_height=40&count_private=false)](https://github.com/iDereje)
+
+### **Github Stats**
 
 ![iDereje's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDereje&rank_icon=github&theme=radical&count_private=true)
 
@@ -164,6 +173,8 @@ In my journey towards excellence, I love exploring the latest testing tools and 
 
 
 ###  **🚀** **Join me on this exciting quest of testing excellence and let's make the world of software even better!** 
+
+---
 
 ####    **Explore QA testing with essential resources and a coding playlist by tapping ☰ ⏬** 
 
