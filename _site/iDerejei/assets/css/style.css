@@ -1090,4 +1090,45 @@ a:hover {
   transition: all;
 }
 
+/* Add your custom CSS styles here */
+/* Adjustments for mobile devices */
+@media (max-width: 480px) {
+  h2 {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  h2 img {
+    height: 40px;
+    width: 100%;
+    margin-right: 10px;
+    border-radius: 10px;
+    float: left;
+  }
+  h2 strong {
+    display: inline-block;
+    margin-top: 1px;
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+    display: flex;
+    align-items: left;
+  }
+  h2 img {
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    float: left;
+  }
+  h2 strong {
+    display: inline-block;
+    margin-top: 1px;
+    font-size: 20px;
+  }
+  strong img {
+    text-align: center;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
