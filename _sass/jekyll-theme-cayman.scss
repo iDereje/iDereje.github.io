@@ -453,7 +453,7 @@ hr:hover {
 
 .navigation-link,
 a {
-  color: #cdd1da;
+  color: #d3d2dd;
  
   display: inline-block;
   padding: 2px;
@@ -472,9 +472,10 @@ $color-heading-secondary: #c1cdda;
 $color-accent: #919aa4;
 
   &:hover {
-    color: #343639;
-    border-color: #454952;
+    color: #919aa8;
+    border-color: #9196a3;
     background-color: #6b6f75eb;
+    transition: all;
     
     
   }

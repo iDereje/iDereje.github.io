@@ -1073,7 +1073,7 @@ hr:hover {
 
 .navigation-link,
 a {
-  color: #cdd1da;
+  color: #d3d2dd;
   display: inline-block;
   padding: 2px;
   border: 1px solid transparent; /* Add a transparent border */
@@ -1084,9 +1084,10 @@ a {
 }
 .navigation-link:hover,
 a:hover {
-  color: #343639;
-  border-color: #454952;
+  color: #919aa8;
+  border-color: #9196a3;
   background-color: rgba(107, 111, 117, 0.9215686275);
+  transition: all;
 }
 
 /*# sourceMappingURL=style.css.map */
