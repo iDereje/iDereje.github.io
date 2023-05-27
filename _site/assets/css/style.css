@@ -738,6 +738,7 @@ a:hover {
   border-width: 1px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  padding: auto;
 }
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
@@ -1093,6 +1094,10 @@ a:hover {
 /* Add your custom CSS styles here */
 /* Adjustments for mobile devices */
 @media (max-width: 480px) {
+  p {
+    text-align: center;
+    font-size: bold;
+  }
   h2 {
     font-size: 20px;
     display: flex;
