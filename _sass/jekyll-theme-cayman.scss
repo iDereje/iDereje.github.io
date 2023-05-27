@@ -49,13 +49,16 @@ body {
 }
 
 .centered-content {
-  text-align: left;
+  text-align: center;
 }
 
 .centered-text {
   text-align: center;
 }
 
+#project-name{
+  text-align: center;
+}
 
 .icon {
   display: inline-block;
@@ -488,7 +491,7 @@ $color-accent: #919aa4;
       @media (max-width: 480px) {
 
         p{
-          text-align: center;
+          text-align: left;
           font-size: bold;
         }
         
@@ -514,7 +517,6 @@ $color-accent: #919aa4;
         h2 {
           font-size: 20px;
           display: flex;
-          align-items: left;
         }
       
         h2 img {

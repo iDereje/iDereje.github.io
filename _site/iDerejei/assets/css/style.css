@@ -686,10 +686,14 @@ body {
 }
 
 .centered-content {
-  text-align: left;
+  text-align: center;
 }
 
 .centered-text {
+  text-align: center;
+}
+
+#project-name {
   text-align: center;
 }
 
@@ -1095,7 +1099,7 @@ a:hover {
 /* Adjustments for mobile devices */
 @media (max-width: 480px) {
   p {
-    text-align: center;
+    text-align: left;
     font-size: bold;
   }
   h2 {
@@ -1118,7 +1122,6 @@ a:hover {
   h2 {
     font-size: 20px;
     display: flex;
-    align-items: left;
   }
   h2 img {
     height: 70px;
