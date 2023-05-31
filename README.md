@@ -24,9 +24,9 @@ I am a Junior QA Engineer based in Israel, on a mission to become a skilled Soft
 
 In my work as a Quality Assurance Engineer, I utilize various programming languages and tools to ensure the quality and reliability of software. Some of the technologies and tools I work with include:
 
-- Python: A versatile programming language used for test automation and scripting.
-- TestNG: A testing framework for Java that enables efficient and structured testing.
-- Linux and Debian: Operating systems that provide a stable and secure environment for software development and testing.
+- Python,Java: A versatile programming languages used for test automation and scripting.
+- Selenium (TestNG, Junit): A testing framework for Java that enables efficient and structured testing.
+- Linux : Operating systems that provide a stable and secure environment for software development and testing.
 - PowerShell: A powerful command-line shell and scripting language for automation tasks.
 - Git and GitHub: Version control systems that facilitate collaborative software development.
 - Git Actions 
