@@ -42,15 +42,9 @@ To view the website locally or contribute to its development, follow these steps
 
 git clone <repository_url>
 
-css
-Copy code
-
 2. Navigate to the cloned directory:
 
 cd <repository_directory>
-
-arduino
-Copy code
 
 3. Build the Jekyll site and install dependencies using Bundler:
 
