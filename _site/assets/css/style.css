@@ -731,6 +731,12 @@ a:hover {
   text-decoration: underline;
 }
 
+hr {
+  height: 3px; /* Adjust height as needed */
+  background: linear-gradient(to right, #ff00cc, #00ffff); /* Replace with your desired colors */
+  border: none;
+}
+
 .btn {
   font-family: Abril Fatface, Montserrat;
   display: inline-block;
@@ -747,8 +753,8 @@ a:hover {
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
-  background-color: rgba(34, 36, 39, 0.9215686275);
-  border-color: rgba(34, 36, 39, 0.9215686275);
+  background-color: rgb(7, 14, 46);
+  border-color: rgb(7, 14, 46);
 }
 .btn + .btn {
   margin-left: 1rem;
@@ -780,8 +786,8 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: rgba(34, 36, 39, 0.9215686275);
-  background-image: linear-gradient(120deg, #949cad, rgba(34, 36, 39, 0.9215686275));
+  background-color: rgb(7, 14, 46);
+  background-image: linear-gradient(120deg, #04020c, rgba(6, 44, 101, 0.9215686275), rgb(7, 14, 46));
 }
 @media screen and (min-width: 64em) {
   .page-header {
@@ -1003,13 +1009,6 @@ a:hover {
   padding: 0;
   margin-bottom: 1rem;
 }
-.main-content hr {
-  height: 2px;
-  padding: 0;
-  margin: 1rem 0;
-  background-color: #eff0f1;
-  border: 0;
-}
 
 .site-footer {
   padding-top: 2rem;
@@ -1039,16 +1038,6 @@ a:hover {
 
 .site-footer-credits {
   color: #819198;
-}
-
-hr {
-  border: none;
-  height: 1px;
-  background-color: #585555;
-}
-
-hr:hover {
-  background-color: #999;
 }
 
 .navigation {

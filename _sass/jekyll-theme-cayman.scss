@@ -5,12 +5,14 @@
 
 $code-bg-color: #87898b;
 $body-bg-color: #cbced3;
-$header-bg-color: #222427eb;
-$header-bg-color-secondary: #949cad;
+$header-bg-color: rgb(7,14,46);
+$header-bg-color-secondary: #04020c, rgba(6, 44, 101, 0.9215686275);
+;
 // Override variables for dark theme
 $color-heading-primary: #b5bfc9;
 $color-heading-secondary: #c1cdda;
 $color-accent: #0366d6;
+
 
 
 @mixin large {
@@ -18,6 +20,7 @@ $color-accent: #0366d6;
     @content;
   }
 }
+
 
 @mixin medium {
   @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
@@ -30,6 +33,8 @@ $color-accent: #0366d6;
     @content;
   }
 }
+
+
 
 * {
   box-sizing: border-box;
@@ -89,6 +94,7 @@ body {
   }
 }
 
+
 a {
   color: $body-link-color;
   text-decoration: none;
@@ -97,6 +103,12 @@ a {
     text-decoration: underline;
   }
 }
+hr {
+  height: 3px; /* Adjust height as needed */
+  background: linear-gradient(to right, #ff00cc, #00ffff); /* Replace with your desired colors */
+  border: none;
+}
+
 
 .btn {
   font-family: Abril Fatface,Montserrat;
@@ -384,13 +396,7 @@ a {
     }
   }
 
-  hr {
-    height: 2px;
-    padding: 0;
-    margin: 1rem 0;
-    background-color: $hr-border-color;
-    border: 0;
-  }
+ 
 }
 
 .site-footer {
@@ -419,15 +425,7 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
-hr {
-  border: none;
-  height: 1px;
-  background-color: #585555;
-}
 
-hr:hover {
-  background-color: #999;
-}
 
 .navigation {
   background-color: transparent; /* Set the background color */
