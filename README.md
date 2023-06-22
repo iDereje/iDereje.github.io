@@ -47,9 +47,10 @@ git clone <repository_url>
 cd <repository_directory>
 
 3. Build the Jekyll site and install dependencies using Bundler:
-
-        bundle install
-
+   
+   '''
+   bundle install
+   '''
 4. Serve the Jekyll site locally:
 
 bundle exec jekyll serve
