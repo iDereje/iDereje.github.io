@@ -50,6 +50,13 @@ cd <repository_directory>
    
        
          bundle install 
+
+```
+To install the required dependencies, run the following command in your terminal:
+
+bundle install
+
+```
          
 4. Serve the Jekyll site locally:
 
