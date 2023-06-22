@@ -1,14 +1,6 @@
 
 
 
-
-<div class="code-snippet">
-
-git clone https://github.com/DavidDereje/Java_From_Zero_To_Hero
-
-</div>
-   
-
 # David Dereje M. - Quality Assurance Engineer
 
 Welcome to my personal website repository! This repository contains the source code and assets for my personal website, where I showcase my skills and experience as a Quality Assurance Engineer.
