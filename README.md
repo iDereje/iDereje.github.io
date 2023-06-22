@@ -1,6 +1,6 @@
-Apologies for the confusion. In a Markdown file, you can achieve a similar copy button effect by using a combination of HTML, CSS, and JavaScript. Here’s an example:
 
-	1.	Wrap your code snippet in a <div> element with a specific class name. For example:
+
+
 
 <div class="code-snippet">
 
