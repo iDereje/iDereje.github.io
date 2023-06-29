@@ -56,9 +56,9 @@ bundle install
 
          
 5. Serve the Jekyll site locally:
-
+```
 bundle exec jekyll serve
-
+```
 
 5. Open your web browser and visit `http://localhost:4000` to view the website.
 
