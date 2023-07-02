@@ -1,4 +1,6 @@
 
+
+
 # David Dereje M. - Quality Assurance Engineer
 
 Welcome to my personal website repository! This repository contains the source code and assets for my personal website, where I showcase my skills and experience as a Quality Assurance Engineer.
@@ -47,13 +49,16 @@ git clone <repository_url>
 cd <repository_directory>
 
 3. Build the Jekyll site and install dependencies using Bundler:
-
+   
+```         
 bundle install
+```
 
-4. Serve the Jekyll site locally:
-
+         
+5. Serve the Jekyll site locally:
+```
 bundle exec jekyll serve
-
+```
 
 5. Open your web browser and visit `http://localhost:4000` to view the website.
 

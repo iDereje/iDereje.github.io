@@ -669,12 +669,13 @@ th {
 
 * {
   box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 body {
   padding: 0;
   margin: 0;
-  font-family: Abril, Geneva, Verdana, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif, Abril, Geneva, Verdana, sans-serif;
   font-size: 24px;
   line-height: 1.4;
   color: rgba(255, 255, 255, 0.934);
@@ -738,7 +739,7 @@ hr {
 }
 
 .btn {
-  font-family: Abril Fatface, Montserrat;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif, Abril Fatface, Montserrat;
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
@@ -788,6 +789,12 @@ hr {
   text-align: center;
   background-color: rgb(7, 14, 46);
   background-image: linear-gradient(120deg, #04020c, rgba(6, 44, 101, 0.9215686275), rgb(7, 14, 46));
+}
+.page-header .typing-svg-container {
+  background: linear-gradient(120deg, #04020c, rgba(6, 44, 101, 0.9215686275), rgb(7, 14, 46));
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
 }
 @media screen and (min-width: 64em) {
   .page-header {
