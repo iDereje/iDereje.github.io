@@ -669,7 +669,7 @@ th {
 
 * {
   box-sizing: border-box;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 body {
@@ -789,12 +789,6 @@ hr {
   text-align: center;
   background-color: rgb(7, 14, 46);
   background-image: linear-gradient(120deg, #04020c, rgba(6, 44, 101, 0.9215686275), rgb(7, 14, 46));
-}
-.page-header .typing-svg-container {
-  background: linear-gradient(120deg, #04020c, rgba(6, 44, 101, 0.9215686275), rgb(7, 14, 46));
-  display: inline-block;
-  padding: 10px;
-  border-radius: 10px;
 }
 @media screen and (min-width: 64em) {
   .page-header {
@@ -1088,6 +1082,20 @@ a:hover {
   border-color: #9196a3;
   background-color: rgba(107, 111, 117, 0.9215686275);
   transition: all;
+}
+
+.playlist-text {
+  font-family: "Abril Fatface", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.playlist-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.playlist-image {
+  border-radius: 10px;
+  margin-right: 10px;
 }
 
 /* Add your custom CSS styles here */
