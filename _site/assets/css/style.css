@@ -672,6 +672,10 @@ th {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.project-name {
+  font-family: "Abril Fatface";
+}
+
 body {
   padding: 0;
   margin: 0;
@@ -727,6 +731,7 @@ body {
 a {
   color: #0366d6;
   text-decoration: none;
+  font-family: "Abril Fatface";
 }
 a:hover {
   text-decoration: underline;
@@ -739,7 +744,7 @@ hr {
 }
 
 .btn {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif, Abril Fatface, Montserrat;
+  font-family: "Abril Fatface", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif, Abril Fatface, Montserrat;
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
@@ -789,6 +794,7 @@ hr {
   text-align: center;
   background-color: rgb(7, 14, 46);
   background-image: linear-gradient(120deg, #04020c, rgba(6, 44, 101, 0.9215686275), rgb(7, 14, 46));
+  font-family: "Abril Fatface";
 }
 @media screen and (min-width: 64em) {
   .page-header {
@@ -885,6 +891,7 @@ hr {
   line-height: 10px;
   padding: 3px 5px;
   vertical-align: middle;
+  font-family: "Abril Fatface";
 }
 .main-content img {
   max-width: 100%;
@@ -899,13 +906,15 @@ hr {
   margin-bottom: 1rem;
   font-weight: normal;
   color: rgb(231, 233, 235);
+  font-family: "Abril Fatface";
 }
 .main-content p {
   margin-bottom: 1em;
+  font-family: "Abril ";
 }
 .main-content code {
   padding: 2px 4px;
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "Abril Fatface", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #567482;
   background-color: #87898b;
@@ -1014,6 +1023,7 @@ hr {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
+  font-family: "Abril Fatface";
 }
 @media screen and (min-width: 64em) {
   .site-footer {
@@ -1042,17 +1052,20 @@ hr {
 
 .navigation {
   background-color: transparent; /* Set the background color */
+  font-family: "Abril Fatface";
 }
 
 .navigation-list {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  font-family: "Abril Fatface";
 }
 
 .navigation-item {
   display: inline-block;
   margin-right: 1rem; /* Add spacing between navigation items */
+  font-family: "Abril Fatface";
 }
 
 .navigation-link {
@@ -1067,6 +1080,7 @@ hr {
 
 .navigation-link,
 a {
+  font-family: "Abril Fatface";
   color: #d3d2dd;
   display: inline-block;
   padding: 2px;
@@ -1098,17 +1112,23 @@ a:hover {
   margin-right: 10px;
 }
 
+.abril-font {
+  font-family: "Abril Fatface", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
 /* Add your custom CSS styles here */
 /* Adjustments for mobile devices */
 @media (max-width: 480px) {
   p {
     text-align: left;
     font-size: bold;
+    font-family: "Abril Fatface";
   }
   h2 {
     font-size: 20px;
     display: flex;
     align-items: center;
+    font-family: "Abril Fatface";
   }
   h2 img {
     height: 40px;
@@ -1116,15 +1136,18 @@ a:hover {
     margin-right: 10px;
     border-radius: 10px;
     float: left;
+    font-family: "Abril Fatface";
   }
   h2 strong {
     display: inline-block;
     margin-top: 1px;
     font-size: 20px;
+    font-family: "Abril Fatface";
   }
   h2 {
     font-size: 20px;
     display: flex;
+    font-family: "Abril Fatface";
   }
   h2 img {
     height: 70px;
@@ -1136,6 +1159,7 @@ a:hover {
     display: inline-block;
     margin-top: 1px;
     font-size: 20px;
+    font-family: "Abril Fatface";
   }
   strong img {
     text-align: center;
